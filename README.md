@@ -31,8 +31,6 @@ Kia ora! 👋 I'm Opelo, a dedicated tech enthusiast and recent graduate from De
 
 4. **My Blog**
    - [Personal Blog](https://github.com/opelo-kebaitse/opelo-kebaitse.github.io): The first project I worked on during the Foundations of Learning Web Development, sharing my bootcamp journey reflections, created using only HTML and CSS.
-     
-5. **CV**
 
 ## Skills
 
