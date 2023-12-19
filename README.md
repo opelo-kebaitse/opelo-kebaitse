@@ -10,10 +10,9 @@
    - [Technical Skills](#technical-skills)
    - [Human Skills](#human-skills)
 4. [Contact](#contact)
-4. [CV](#cv)
+5. [CV](#cv)
 
-
-# Introduction
+## Introduction
 
 Kia ora! 👋 I'm Opelo, a dedicated tech enthusiast and recent graduate from Dev Academy. I'm on a mission to evolve into a proficient full-stack software developer, driven by a passion for harnessing technology for impactful change.
 
@@ -49,4 +48,3 @@ Kia ora! 👋 I'm Opelo, a dedicated tech enthusiast and recent graduate from De
 - [View CV](https://github.com/opelo-kebaitse/opelo-kebaitse/blob/main/Opelo%20Patricia%20_%20CV.pdf)
 
 Feel free to connect, collaborate, or drop me a message! 🚀
-
