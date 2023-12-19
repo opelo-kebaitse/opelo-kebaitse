@@ -18,18 +18,39 @@ Kia ora! 👋 I'm Opelo, a dedicated tech enthusiast and recent graduate from De
 
 ## Projects
 
-   ### Earth Mates
-   - [Earth Mates](https://github.com/pikopiko-2023/earth-mates): A fullstack eco-friendly events app designed to make event participation easy and enhance environmental responsibility.
-   - Deployed site: https://earth-mates.devacademy.nz/
+1. ### Earth Mates
+   - **Description:** A full-stack eco-friendly events app designed to simplify event participation and promote environmental responsibility.
+   - **Tech/Tools Used:** JavaScript, React, Node.js, HTML, CSS, Git, GitHub.
+   - **Reason:** Created to enhance awareness of eco-friendly events and encourage active participation.
+   - **Reflections:** Explored the challenges of full-stack development, gained insights into user engagement strategies, and improved collaboration skills.
+   - **Links:**
+      - [Source Code](https://github.com/pikopiko-2023/earth-mates)
+      - [Deployed Site](https://earth-mates.devacademy.nz/)
 
-  ### Lost and Found App
-   - [Lost and Found](https://github.com/pikopiko-2023/lost-and-found): A fullstack community-based app helping people reunite with missing pets and find stray animals.
+2. ### Lost and Found App
+   - **Description:** A full-stack community-based app facilitating the reunion of missing pets with their owners and aiding in finding stray animals.
+   - **Tech/Tools Used:** JavaScript, React, Node.js, HTML, CSS, Git, GitHub.
+   - **Reason:** Developed to address the need for a centralised platform for lost and found animals.
+   - **Reflections:** Explored the challenges of community-driven platforms, improved user interaction features, and refined git management skills.
+   - **Links:**
+      - [Source Code](https://github.com/pikopiko-2023/lost-and-found)
 
-  ### My Fullstack Collection
-   - [My Fullstack Collection](https://github.com/pikopiko-2023/my-fullstack-collection-query): My first full-stack CRUD app that raises awareness about endangered species.
+3. ### My Fullstack Collection
+   - **Description:** My first full-stack CRUD app raising awareness about endangered species.
+   - **Tech/Tools Used:** JavaScript, React, Node.js, HTML, CSS, Git, GitHub.
+   - **Reason:** Created to contribute to the cause of wildlife conservation and highlight the impact of human activities on endangered species.
+   - **Reflections:** Learned the fundamentals of full-stack development, implemented CRUD operations, and gained experience in database design.
+   - **Links:**
+      - [Source Code](https://github.com/pikopiko-2023/my-fullstack-collection-query/tree/opelo)
 
-  ### My Blog
-   - [Personal Blog](https://github.com/opelo-kebaitse/opelo-kebaitse.github.io): The first project I worked on during the Foundations of Learning Web Development, sharing my bootcamp journey reflections, created using only HTML and CSS.
+4. ### My Blog
+   - **Description:** Personal blog created during the Foundations of Learning Web Development, sharing reflections on my bootcamp journey.
+   - **Tech/Tools Used:** HTML, CSS, Git, GitHub.
+   - **Reason:** Documented my learning process and experiences during the web development bootcamp.
+   - **Reflections:** Improved HTML and CSS skills, reflected on the learning journey.
+   - **Links:**
+      - [Source Code](https://github.com/opelo-kebaitse/opelo-kebaitse.github.io)
+      - [Deployed Site](https://opelo-kebaitse.github.io)
 
 ## Skills
 
