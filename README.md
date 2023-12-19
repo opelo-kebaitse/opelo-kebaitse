@@ -10,6 +10,7 @@
    - [Technical Skills](#technical-skills)
    - [Human Skills](#human-skills)
 4. [Contact](#contact)
+4. [CV](#cv)
 
 
 # Introduction
