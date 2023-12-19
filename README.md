@@ -18,17 +18,17 @@ Kia ora! 👋 I'm Opelo, a dedicated tech enthusiast and recent graduate from De
 
 ## Projects
 
-1. **Earth Mates**
+   ### Earth Mates
    - [Earth Mates](https://github.com/pikopiko-2023/earth-mates): A fullstack eco-friendly events app designed to make event participation easy and enhance environmental responsibility.
    - Deployed site: https://earth-mates.devacademy.nz/
 
-2. **Lost and Found App**
+  ### Lost and Found App
    - [Lost and Found](https://github.com/pikopiko-2023/lost-and-found): A fullstack community-based app helping people reunite with missing pets and find stray animals.
 
-3. **My Fullstack Collection**
+  ### My Fullstack Collection
    - [My Fullstack Collection](https://github.com/pikopiko-2023/my-fullstack-collection-query): My first full-stack CRUD app that raises awareness about endangered species.
 
-4. **My Blog**
+  ### My Blog
    - [Personal Blog](https://github.com/opelo-kebaitse/opelo-kebaitse.github.io): The first project I worked on during the Foundations of Learning Web Development, sharing my bootcamp journey reflections, created using only HTML and CSS.
 
 ## Skills
