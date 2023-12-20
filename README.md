@@ -4,7 +4,7 @@
 2. [Projects](#projects)
    - [Earth Mates](#earth-mates)
    - [Lost and Found App](#lost-and-found-app)
-   - [My Fullstack Collection](#my-fullstack-collection)
+   - [Endangered species fullstack collection](#endangered-species-fullstack-collection)
    - [My Blog](#my-blog)
 3. [Skills](#skills)
    - [Technical Skills](#technical-skills)
@@ -24,7 +24,7 @@ Kia ora! 👋 I'm Opelo, a dedicated tech enthusiast and recent graduate from De
    - **Reason:** Created to enhance awareness of eco-friendly events and encourage active participation.
    - **Reflections:** Explored the challenges of full-stack development, gained insights into user engagement strategies, and improved collaboration skills.
    - **Links:**
-      - [Source Code](https://github.com/pikopiko-2023/earth-mates)
+      - [Source Code](https://github.com/opelo-kebaitse/Earth-Mates)
       - [Deployed Site](https://earth-mates.devacademy.nz/)
 
 2. ### Lost and Found App
@@ -33,15 +33,15 @@ Kia ora! 👋 I'm Opelo, a dedicated tech enthusiast and recent graduate from De
    - **Reason:** Developed to address the need for a centralised platform for lost and found animals.
    - **Reflections:** Explored the challenges of community-driven platforms, improved user interaction features, and refined git management skills.
    - **Links:**
-      - [Source Code](https://github.com/pikopiko-2023/lost-and-found)
+      - [Source Code](https://github.com/opelo-kebaitse/Lost-and-Found)
 
-3. ### My Fullstack Collection
+3. ### Endangered species fullstack collection
    - **Description:** My first full-stack CRUD app raising awareness about endangered species.
    - **Tech/Tools Used:** JavaScript, React, Node.js, HTML, CSS, Git, GitHub.
    - **Reason:** Created to contribute to the cause of wildlife conservation and highlight the impact of human activities on endangered species.
    - **Reflections:** Learned the fundamentals of full-stack development, implemented CRUD operations, and gained experience in database design.
    - **Links:**
-      - [Source Code](https://github.com/pikopiko-2023/my-fullstack-collection-query/tree/opelo)
+      - [Source Code](https://github.com/opelo-kebaitse/Endangered-species-fullstack-collection)
 
 4. ### My Blog
    - **Description:** Personal blog created during the Foundations of Learning Web Development, sharing reflections on my bootcamp journey.
